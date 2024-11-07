@@ -443,7 +443,7 @@ public class Program
             Console.WriteLine("False");
         }*/
 
-        /*//25
+        /*// 25
         Console.Write("a son : ");
         var a = Convert.ToInt32(Console.ReadLine());
 
@@ -587,6 +587,23 @@ public class Program
         else
         {
             Console.WriteLine("2 son kichigi " + numberTwo);
+        }
+        Main(args);*/
+
+        /*// 12 
+        Console.Write("birinchi son : ");
+        var numberOne = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("ikkinchi son : ");
+        var numberTwo = Convert.ToInt32(Console.ReadLine());
+
+        if (numberOne > 9 && numberOne < 100 && numberTwo > 9 && numberTwo < 100)
+        {
+            Console.WriteLine("Yig'indisi : " + (numberOne + numberTwo));
+        }
+        else
+        {
+            Console.WriteLine("Ko'paytmasi : " + (numberOne * numberTwo));
         }
         Main(args);*/
 
