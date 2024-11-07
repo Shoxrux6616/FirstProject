@@ -1,0 +1,15 @@
+D:\Project\FirstProject\src\src\bin\Debug\net8.0\src.exe
+D:\Project\FirstProject\src\src\bin\Debug\net8.0\src.deps.json
+D:\Project\FirstProject\src\src\bin\Debug\net8.0\src.runtimeconfig.json
+D:\Project\FirstProject\src\src\bin\Debug\net8.0\src.dll
+D:\Project\FirstProject\src\src\bin\Debug\net8.0\src.pdb
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.sourcelink.json
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.dll
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\refint\src.dll
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.pdb
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+D:\Project\FirstProject\src\src\obj\Debug\net8.0\ref\src.dll
