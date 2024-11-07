@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace src;
+﻿namespace src;
 
 public class Program
 {
@@ -700,15 +698,9 @@ public class Program
         var thundreds = number / 1000;
 
         var resault = 0;
-
         if (number > 999 && number < 10000)
         {
             Console.WriteLine(ones + tens + hundreds + thundreds);
         }
-
-
-
-
-
     }
 }
