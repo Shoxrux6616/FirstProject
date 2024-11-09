@@ -705,7 +705,7 @@ public class Program
         Console.WriteLine("Natija " + count + " ta");
         Main(args);*/
 
-        // misol
+        /*// misol
         Console.Write(" son : ");
         var number = Convert.ToInt32(Console.ReadLine());
 
@@ -718,6 +718,18 @@ public class Program
         if (number > 999 && number < 10000)
         {
             Console.WriteLine(ones + tens + hundreds + thundreds);
-        }
+        }*/
+
+        // Homework 3
+
+        /*// 1
+        Console.WriteLine("So'z kiriting : ");
+        var stringValyu = Console.ReadLine();
+
+        var replasedString = stringValyu.Replace(stringValyu, "Hello " + stringValyu + "!");
+
+        Console.WriteLine(replasedString);*/
+
+        // 2
     }
 }
