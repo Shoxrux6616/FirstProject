@@ -730,6 +730,130 @@ public class Program
 
         Console.WriteLine(replasedString);*/
 
-        // 2
+        /*// 2
+        Console.WriteLine("1 so'z kiriting : ");
+        var stringHi = Console.ReadLine();
+
+        Console.WriteLine("2 so'z kiriting : ");
+        var stringBye = Console.ReadLine();
+
+        Console.WriteLine($"Natija : {stringHi}{stringBye}{stringBye}{stringHi}");*/
+
+        /*// 3
+        Console.WriteLine("1 so'z kiriting : ");
+        var stringWordOne = Console.ReadLine();
+
+        Console.WriteLine("2 so'z kiriting : ");
+        var stringWordTwo = Console.ReadLine();
+
+        if (stringWordOne.Length <= 4)
+        {
+            var resautOne = stringWordOne.Remove(2);
+            var resautTwo = stringWordOne.Remove(0, 2);
+            Console.WriteLine($"Natija : {resautOne}{stringWordTwo}{resautTwo}");
+
+        }
+        else
+        {
+            Console.WriteLine("Satirni uzunligi 4 dan oshmasligi kerak ?");
+        }*/
+
+        /*// 4
+        Console.WriteLine("So'z kiriting : ");
+        var stringWord = Console.ReadLine();
+
+        var resaut = stringWord.Remove(0, stringWord.Length - 2);
+        Console.WriteLine($"Natija : {resaut}{resaut}{resaut}");*/
+
+        /*// 5
+        Console.WriteLine("So'z kiriting : ");
+        var stringWord = Console.ReadLine();
+
+        if(stringWord.Length > 2)
+        {
+            var resaut = stringWord.Remove(2);
+            Console.WriteLine($"Natija : {resaut}");
+        }
+        else
+        {
+            Console.WriteLine(stringWord);
+        }
+        Main(args);*/
+
+        /*// 6
+        Console.WriteLine("So'z kiriting : ");
+        var stringWord = Console.ReadLine();
+
+        if (stringWord.Length % 2 == 0)
+        {
+            var resaut = stringWord.Substring(0, stringWord.Length / 2);
+            Console.WriteLine($"Natija : {resaut}");
+        }
+        else
+        {
+            Console.WriteLine("Faqat juft uzunlikdagi satr kiriting?");
+        }*/
+
+        /*// 7
+        Console.WriteLine("So'z kiriting : ");
+        var stringWord = Console.ReadLine();
+
+        if (stringWord.Length >= 3)
+        {
+            var firstResaut = stringWord.Remove(0, 1);
+            var secondResault = firstResaut.Remove(firstResaut.Length - 1, 1);
+            Console.WriteLine($"Natija : {secondResault}");
+        }
+        else
+        {
+            Console.WriteLine("Satirlar soni 3 ta yoki 3 tadan ko'p bo'lishi kerak?");
+        }*/
+
+        /*// 8
+        Console.WriteLine("1 so'z kiriting : ");
+        var stringWordOne = Console.ReadLine();
+
+        Console.WriteLine("2 so'z kiriting : ");
+        var stringWordTwo = Console.ReadLine();
+
+        var resaut = stringWordOne.Remove(0, 1);
+
+        Console.WriteLine($" Natija : {resaut}{stringWordTwo}");*/
+
+        /*// 9
+        Console.WriteLine("1 so'z kiriting : ");
+        var stringWordOne = Console.ReadLine();
+
+        Console.WriteLine("2 so'z kiriting : ");
+        var stringWordTwo = Console.ReadLine();
+
+        if (stringWordOne.Length >= 2 && stringWordTwo.Length >= 2)
+        {
+            var firstResaut = stringWordOne.Remove(0, 1);
+            var secondResaut = stringWordTwo.Remove(0, 1);
+            Console.WriteLine($"Natija : {firstResaut}{secondResaut}");
+        }
+        else
+        {
+            Console.WriteLine("Satirlar soni 2 ta yoki 2 tadan ko'p bo'lishi kerak?");
+        }*/
+
+        /*// 10
+        Console.WriteLine("2 so'z kiriting : ");
+        var stringWord = Console.ReadLine();
+
+        if (stringWord.Length >= 4)
+        {
+            var firstResaut = stringWord.Remove(0, 2);
+            var secondResaut = stringWord.Remove(2);
+            Console.WriteLine($"Natija : {firstResaut}{secondResaut}");
+        }
+        else
+        {
+            Console.WriteLine("Satirlar soni 4 ta yoki 4 tadan ko'p bo'lishi kerak?");
+        }*/
+
+        // 11
+
     }
 }
